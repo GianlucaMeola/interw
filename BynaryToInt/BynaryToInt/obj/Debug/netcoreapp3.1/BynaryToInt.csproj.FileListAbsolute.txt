@@ -1,0 +1,11 @@
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\bin\Debug\netcoreapp3.1\BynaryToInt.exe
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\bin\Debug\netcoreapp3.1\BynaryToInt.deps.json
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\bin\Debug\netcoreapp3.1\BynaryToInt.runtimeconfig.json
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\bin\Debug\netcoreapp3.1\BynaryToInt.runtimeconfig.dev.json
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\bin\Debug\netcoreapp3.1\BynaryToInt.dll
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\bin\Debug\netcoreapp3.1\BynaryToInt.pdb
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\obj\Debug\netcoreapp3.1\BynaryToInt.csprojAssemblyReference.cache
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\obj\Debug\netcoreapp3.1\BynaryToInt.AssemblyInfoInputs.cache
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\obj\Debug\netcoreapp3.1\BynaryToInt.AssemblyInfo.cs
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\obj\Debug\netcoreapp3.1\BynaryToInt.dll
+C:\Users\janlu\source\repos\BynaryToInt\BynaryToInt\obj\Debug\netcoreapp3.1\BynaryToInt.pdb
